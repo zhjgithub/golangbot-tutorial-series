@@ -4,7 +4,11 @@ import (
 	"fmt"
 	"golangbot-tutorial-series/geometry/rectangle" //importing custom package
 	"log"
+	_ "math"
+	"time"
 )
+
+var _ = time.Now()
 
 /*
  * 1. package variables
