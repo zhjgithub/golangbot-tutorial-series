@@ -9,4 +9,5 @@ func main() {
 	SwitchExample()
 	ArrayExample()
 	StructExample()
+	InterfaceExample()
 }
