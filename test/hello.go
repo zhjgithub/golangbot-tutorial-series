@@ -10,4 +10,5 @@ func main() {
 	ArrayExample()
 	StructExample()
 	InterfaceExample()
+	GoroutineExample()
 }
